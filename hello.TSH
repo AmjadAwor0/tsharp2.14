@@ -1,0 +1,14 @@
+# WHILE(TRUE) THEN
+#     LOCATE inp = INPUT_INT()
+#     IF inp>0 THEN
+#         PUT("1")
+#     ELSE
+#         IF inp==0 THEN
+#             PUT("0")
+#         ELSE
+#             IF inp<0 THEN
+#                 PUT("-1")
+#             END
+#         END
+#     END
+# END
