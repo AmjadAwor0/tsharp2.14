@@ -1,0 +1,2 @@
+cp tsharp214.sh /usr/bin/
+echo "Teasharp 2.14 installed"
