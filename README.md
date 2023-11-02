@@ -1,6 +1,6 @@
-# Teasharp 2.12 Update
+# Teasharp 2.14 Update
 
-Teasharp 2.12 is now avaible
+Teasharp 2.14 is now available
 
 ## Requirements
 
