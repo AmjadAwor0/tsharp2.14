@@ -10,8 +10,11 @@ Python 3.9.7, and an IDE like VS Code or TSharp IDE
 
 Linux:
   cd /opt/
+  <br>
   git clone https://github.com/AmjadAwor0/tsharp2.14/
+  <br>
   cd tsharp2.14/
+  <br>
   bash setup
 
 ## Release Notes
