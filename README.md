@@ -6,6 +6,14 @@ Teasharp 2.14 is now available
 
 Python 3.9.7, and an IDE like VS Code or TSharp IDE
 
+## Installation
+
+Linux:
+  cd /opt/
+  git clone https://github.com/AmjadAwor0/tsharp2.14/
+  cd tsharp2.14/
+  bash setup
+
 ## Release Notes
 
 ### 1.00
